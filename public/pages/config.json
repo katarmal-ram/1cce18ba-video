@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "Jamnagar Brass Industries",
-    "favicon": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&auto=format&fit=crop&w=64&q=80",
+    "favicon": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=64&h=64&fit=crop",
     "tagline": "Precision Engineering Excellence"
   },
   "footer": {
@@ -80,10 +80,10 @@
     ]
   },
   "company": {
-    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?ixlib=rb-4.0.3&auto=format&fit=crop&w=250&q=80",
+    "logo": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?q=80&w=300&h=300&fit=crop",
     "name": "Jamnagar Brass Industries",
     "tagline": "Precision Engineering Excellence",
-    "description": "A leading precision components manufacturer specializing in automotive and pneumatic parts. With advanced CNC and semi-automatic machinery, we deliver high-quality brass components with unmatched precision and reliability."
+    "description": "A leading precision component manufacturer specializing in automotive and pneumatic parts, leveraging advanced semi-automatic and CNC machinery to deliver exceptional quality and reliability."
   },
   "contact": {
     "email": "info@jamnagarbrassindustries.com",
@@ -98,6 +98,6 @@
         "label": "Saturday"
       }
     ],
-    "address": "Plot 45, Industrial Area, Jamnagar - 361008, Gujarat, India"
+    "address": "Plot 45, Industrial Estate, Jamnagar - 361001, Gujarat, India"
   }
 }
