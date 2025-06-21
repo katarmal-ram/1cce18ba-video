@@ -7,13 +7,13 @@
     "type": "image",
     "title": "About Jamnagar Brass Industries",
     "enabled": true,
-    "subtitle": "Precision Manufacturing Excellence Since 2012",
+    "subtitle": "Engineering Excellence Since 2012",
     "description": "Jamnagar Brass Industries is a leading precision component manufacturer dedicated to delivering high-quality automotive and pneumatic parts. With advanced manufacturing technologies and a commitment to innovation, we transform complex engineering challenges into precise, reliable solutions.",
     "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
-    "title": "Jamnagar Brass Industries - Precision Manufacturing Since 2012",
-    "description": "Specialized precision component manufacturer with 13 years of experience, producing high-quality automotive and pneumatic parts using advanced CNC and semi-automatic machinery."
+    "title": "Jamnagar Brass Industries - Precision Manufacturing Excellence",
+    "description": "Precision component manufacturer specializing in automotive and pneumatic parts with 13 years of engineering expertise and advanced manufacturing capabilities."
   },
   "sections": {
     "cta": {
@@ -22,7 +22,7 @@
       "enabled": true,
       "subtitle": "Transform Your Manufacturing Needs with Our Precision Solutions",
       "primaryCTA": {
-        "text": "Get a Quote",
+        "text": "Get Quote",
         "action": "/contact"
       },
       "secondaryCTA": {
@@ -35,17 +35,17 @@
       "items": [
         {
           "id": "manufacturing-excellence",
-          "year": 2020,
+          "year": 2022,
           "title": "Manufacturing Excellence Award",
           "authority": "Gujarat Industrial Association",
           "description": "Recognized for outstanding precision manufacturing and technological innovation in automotive components"
         },
         {
           "id": "export-achievement",
-          "year": 2022,
+          "year": 2021,
           "title": "Export Performance Award",
           "authority": "Ministry of Commerce",
-          "description": "Acknowledged for significant contributions to export of precision engineering components"
+          "description": "Acknowledged for significant contributions to international manufacturing exports"
         }
       ],
       "title": "Awards & Recognition",
@@ -68,9 +68,9 @@
           "description": "Environmental management certification demonstrating sustainable manufacturing practices"
         }
       ],
-      "title": "Certifications & Standards",
+      "title": "Quality Certifications",
       "enabled": true,
-      "subtitle": "Committed to Quality and Sustainable Manufacturing"
+      "subtitle": "Committed to Highest Standards of Quality and Compliance"
     },
     "companyJourney": {
       "type": "company-journey",
@@ -83,22 +83,27 @@
         {
           "year": 2015,
           "title": "Technology Expansion",
-          "description": "Invested in advanced CNC machinery, expanding production capabilities and technological sophistication"
+          "description": "Invested in advanced CNC and semi-automatic machinery to enhance manufacturing capabilities"
         },
         {
           "year": 2018,
           "title": "Quality Certification",
-          "description": "Achieved ISO 9001:2015 certification, reinforcing commitment to international quality standards"
+          "description": "Achieved ISO 9001:2015 certification, solidifying our commitment to international quality standards"
         },
         {
-          "year": 2021,
+          "year": 2020,
           "title": "Market Expansion",
-          "description": "Expanded international market presence, serving clients across multiple countries"
+          "description": "Expanded international market presence, serving automotive manufacturers across multiple regions"
+        },
+        {
+          "year": 2022,
+          "title": "Technological Innovation",
+          "description": "Implemented advanced laser marking and precision deburring technologies"
         }
       ],
       "title": "Our Journey",
       "enabled": true,
-      "subtitle": "A Story of Growth, Innovation, and Precision"
+      "subtitle": "A Decade of Manufacturing Excellence"
     },
     "infrastructure": {
       "type": "infrastructure",
@@ -106,23 +111,23 @@
         {
           "id": "cnc-machines",
           "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-          "title": "CNC Manufacturing Capabilities",
-          "capacity": "25 CNC Machines",
-          "description": "Advanced CNC machinery enabling high-precision component manufacturing with tight tolerances",
-          "specifications": "Multi-axis machining, automated tool changing, real-time quality monitoring"
+          "title": "CNC Manufacturing Center",
+          "capacity": "25 Advanced CNC Machines",
+          "description": "State-of-the-art CNC machining center capable of producing complex precision components with micron-level accuracy",
+          "specifications": "Multi-axis capabilities, high-speed machining, precision tolerances"
         },
         {
           "id": "semi-automatic",
           "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-          "title": "Semi-Automatic Production Lines",
+          "title": "Semi-Automatic Production Line",
           "capacity": "80 Semi-Automatic Machines",
-          "description": "Flexible manufacturing system supporting diverse component production requirements",
-          "specifications": "Quick changeover, high-efficiency production, consistent quality output"
+          "description": "Flexible manufacturing system enabling rapid production of automotive and pneumatic components",
+          "specifications": "24/7 production, quick changeover, high-efficiency manufacturing"
         }
       ],
-      "title": "Our Infrastructure",
+      "title": "Manufacturing Infrastructure",
       "enabled": true,
-      "subtitle": "State-of-the-Art Manufacturing Capabilities"
+      "subtitle": "Advanced Technology for Precision Manufacturing"
     },
     "companyOverview": {
       "type": "company-overview",
@@ -130,15 +135,16 @@
       "items": [
         {
           "id": "overview",
-          "content": "Jamnagar Brass Industries is a premier precision component manufacturer established in 2012, specializing in automotive and pneumatic parts. With a 50,000 sq ft manufacturing facility and advanced technological infrastructure, we deliver high-quality solutions to global clients across various industries.",
+          "content": "Jamnagar Brass Industries is a leading precision component manufacturer established in 2012, specializing in automotive and pneumatic parts. With a 50,000 sq ft state-of-the-art facility and advanced manufacturing technologies, we deliver high-quality solutions to global automotive and industrial markets.",
           "highlights": [
             "ISO 9001:2015 Certified",
             "25 CNC Machines",
             "80 Semi-Automatic Machines",
             "24/7 Production Capability",
             "Custom Manufacturing Services",
-            "International Market Presence",
-            "Precision Engineering Expertise"
+            "Laser Marking Technology",
+            "Precision Deburring",
+            "International Market Presence"
           ]
         }
       ],
@@ -153,37 +159,37 @@
           "id": "design",
           "step": 1,
           "title": "Engineering Design",
-          "description": "Comprehensive design analysis and prototype development using advanced CAD/CAM technologies"
+          "description": "Comprehensive design and engineering analysis using advanced CAD/CAM technologies"
         },
         {
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Precise material sourcing and evaluation to ensure optimal component performance"
+          "description": "Precision brass material sourcing and quality verification"
         },
         {
           "id": "production",
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Utilizing CNC and semi-automatic machines for high-precision component fabrication"
+          "description": "Advanced CNC and semi-automatic machining for complex component production"
         },
         {
           "id": "quality",
           "step": 4,
           "title": "Quality Control",
-          "description": "Rigorous inspection and testing to guarantee dimensional accuracy and performance"
+          "description": "Rigorous dimensional and performance testing using advanced metrology equipment"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Advanced finishing techniques including deburring, laser marking, and surface conditioning"
+          "description": "Laser marking, deburring, and precision surface finishing"
         },
         {
           "id": "delivery",
           "step": 6,
           "title": "Packaging & Delivery",
-          "description": "Secure packaging and efficient logistics ensuring timely and safe component delivery"
+          "description": "Secure packaging and timely delivery with comprehensive documentation"
         }
       ],
       "title": "Manufacturing Process",
