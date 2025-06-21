@@ -3,20 +3,19 @@
     "type": "video",
     "title": "Precision Manufacturing Solutions",
     "enabled": true,
-    "subtitle": "Delivering High-Quality Brass Components for Automotive and Pneumatic Industries",
-    "backgroundImage": "",
+    "subtitle": "Delivering high-quality brass components for automotive and pneumatic industries with cutting-edge technology and expertise",
     "backgroundVideo": "https://example.com/manufacturing-process.mp4"
   },
   "meta": {
-    "title": "Precision Brass Components | Jamnagar Brass Industries",
-    "description": "Expert precision manufacturing of automotive and pneumatic brass components using advanced CNC and semi-automatic machinery"
+    "title": "Brass Component Manufacturing | Jamnagar Brass Industries",
+    "description": "Expert precision brass component manufacturing for automotive and pneumatic sectors with advanced CNC and semi-automatic machinery"
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Ready to Elevate Your Manufacturing Needs?",
+      "title": "Ready to Transform Your Component Manufacturing?",
       "enabled": true,
-      "subtitle": "Partner with our expert team for custom precision brass components",
+      "subtitle": "Partner with industry-leading experts in precision brass component production",
       "primaryCTA": {
         "text": "Request Quote",
         "action": "/contact"
@@ -33,87 +32,87 @@
           "id": "custom-manufacturing",
           "image": "https://unsplash.com/manufacturing-precision.jpg",
           "title": "Custom Manufacturing",
-          "description": "We specialize in creating bespoke brass components tailored to your exact specifications. Our advanced machinery ensures precision and consistency in every part we produce.",
+          "description": "Specialized precision manufacturing of custom brass components tailored to your exact specifications and industry requirements. We leverage advanced CNC and semi-automatic machinery to ensure exceptional quality and consistency.",
           "capabilities": [
-            "Automotive Component Manufacturing",
-            "Pneumatic Part Production",
+            "Automotive Part Manufacturing",
+            "Pneumatic Component Production",
             "Precision Brass Machining",
-            "Custom Design Capabilities"
+            "Complex Geometry Fabrication"
           ]
         },
         {
           "id": "laser-marking",
           "image": "https://unsplash.com/laser-marking.jpg",
           "title": "Laser Marking Services",
-          "description": "Our state-of-the-art laser marking technology provides permanent, high-quality identification and branding for your components with exceptional precision.",
+          "description": "High-precision laser marking solutions for permanent identification and traceability of brass components. Our advanced laser technology ensures crisp, durable markings without compromising component integrity.",
           "capabilities": [
-            "Permanent Component Identification",
-            "High-Precision Marking",
-            "Multiple Font and Design Options",
-            "Quick Turnaround Times"
+            "Serial Number Marking",
+            "Logo Engraving",
+            "Technical Specification Marking",
+            "Compliance Labeling"
           ]
         },
         {
           "id": "deburring",
-          "image": "https://unsplash.com/metal-finishing.jpg",
+          "image": "https://unsplash.com/deburring-process.jpg",
           "title": "Precision Deburring",
-          "description": "We ensure smooth, clean edges on all manufactured components through our advanced deburring processes, guaranteeing superior quality and performance.",
+          "description": "Comprehensive deburring services to eliminate sharp edges and ensure smooth, high-quality brass component surfaces. Our meticulous process enhances component performance and safety.",
           "capabilities": [
-            "Smooth Surface Finishing",
-            "Burr Removal",
-            "Enhanced Component Quality",
-            "Consistent Precision"
+            "Mechanical Deburring",
+            "Chemical Deburring",
+            "Surface Finishing",
+            "Quality Inspection"
           ]
         }
       ],
-      "title": "Our Service Offerings",
+      "title": "Our Manufacturing Services",
       "enabled": true,
-      "subtitle": "Comprehensive Manufacturing Solutions for Precision Brass Components"
+      "subtitle": "Comprehensive brass component manufacturing solutions for diverse industrial applications"
     },
     "capabilities": {
       "type": "capabilities",
       "items": [
         {
           "id": "production-capacity",
-          "title": "Advanced Production Capabilities",
+          "title": "Advanced Production Infrastructure",
           "metrics": [
             {
+              "label": "Manufacturing Area",
+              "value": "50,000 sq ft"
+            },
+            {
               "label": "Machine Count",
-              "value": "105+ Machines"
+              "value": "105+ Machines (80 Semi-Automatic, 25 CNC)"
             },
             {
               "label": "Operating Mode",
-              "value": "24/7 Production"
-            },
-            {
-              "label": "Facility Size",
-              "value": "50,000 sq ft"
+              "value": "24/7 Continuous Production"
             }
           ],
-          "description": "Our extensive manufacturing facility features over 105 advanced machines, enabling continuous 24/7 production across a massive 50,000 sq ft workspace."
+          "description": "State-of-the-art manufacturing facility with extensive machinery and continuous production capabilities"
         },
         {
           "id": "technical-expertise",
           "title": "Technical Manufacturing Expertise",
           "metrics": [
             {
-              "label": "Machine Types",
-              "value": "80 Semi-Automatic, 25 CNC"
-            },
-            {
               "label": "Industry Experience",
               "value": "13 Years"
             },
             {
-              "label": "Innovation",
-              "value": "Custom Solution Development"
+              "label": "Machine Technology",
+              "value": "Advanced CNC & Semi-Automatic"
+            },
+            {
+              "label": "Custom Solutions",
+              "value": "Tailored Manufacturing Capabilities"
             }
           ],
-          "description": "With 13 years of experience and a diverse machine portfolio, we deliver cutting-edge manufacturing solutions tailored to complex industry requirements."
+          "description": "Extensive technical expertise in precision brass component manufacturing with continuous technological innovation"
         },
         {
           "id": "quality-standards",
-          "title": "Precision Quality Assurance",
+          "title": "Quality and Precision",
           "metrics": [
             {
               "label": "Precision Level",
@@ -121,57 +120,57 @@
             },
             {
               "label": "Quality Control",
-              "value": "Rigorous Testing Protocols"
+              "value": "Rigorous Inspection Processes"
             },
             {
               "label": "Component Types",
-              "value": "Automotive & Pneumatic"
+              "value": "Automotive & Pneumatic Specialization"
             }
           ],
-          "description": "We maintain exceptional quality standards through micron-level precision and comprehensive testing across automotive and pneumatic component manufacturing."
+          "description": "Commitment to exceptional quality, precision, and consistent component performance"
         }
       ],
-      "title": "Our Advanced Capabilities",
+      "title": "Our Manufacturing Capabilities",
       "enabled": true,
-      "subtitle": "Cutting-Edge Technology Meets Precision Manufacturing"
+      "subtitle": "Advanced technology and expertise driving precision manufacturing excellence"
     },
     "manufacturing-process": {
       "type": "manufacturing-process",
       "steps": [
         {
           "step": 1,
-          "title": "Initial Consultation",
-          "description": "Understand client requirements and technical specifications for precise component manufacturing."
+          "title": "Client Consultation",
+          "description": "Detailed discussion of component requirements, specifications, and project objectives"
         },
         {
           "step": 2,
-          "title": "Design & Engineering",
-          "description": "Develop detailed manufacturing blueprints and prototype designs using advanced CAD technologies."
+          "title": "Design and Engineering",
+          "description": "Comprehensive design analysis and engineering optimization for component manufacturability"
         },
         {
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Utilize CNC and semi-automatic machines to create high-quality brass components with exceptional accuracy."
+          "description": "Utilizing advanced CNC and semi-automatic machinery for precise brass component production"
         },
         {
           "step": 4,
-          "title": "Quality Inspection",
-          "description": "Conduct comprehensive quality checks and precision measurements to ensure component excellence."
+          "title": "Quality Assurance",
+          "description": "Rigorous multi-stage quality inspection to ensure dimensional accuracy and performance"
         },
         {
           "step": 5,
           "title": "Surface Finishing",
-          "description": "Apply advanced deburring and laser marking techniques for superior component quality."
+          "description": "Advanced deburring and surface treatment to enhance component quality and aesthetics"
         },
         {
           "step": 6,
-          "title": "Delivery & Support",
-          "description": "Provide timely delivery and ongoing technical support for manufactured components."
+          "title": "Delivery and Support",
+          "description": "Timely delivery with comprehensive post-production technical support and consultation"
         }
       ],
       "title": "Our Manufacturing Process",
       "enabled": true,
-      "subtitle": "Systematic Approach to Precision Component Production"
+      "subtitle": "Systematic approach ensuring exceptional quality and client satisfaction"
     }
   }
 }
