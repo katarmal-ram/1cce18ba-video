@@ -1,45 +1,141 @@
 {
   "hero": {
-    "title": "Jamnagar Brass Industries",
-    "subtitle": "Precision Components Manufacturing Excellence",
-    "description": "With 13 years of expertise and a state-of-the-art 50,000 sq ft manufacturing facility, we specialize in high-precision brass components for automotive and pneumatic applications. Our advanced production capabilities include 80+ semi-automatic and 25 CNC machines, enabling 24/7 manufacturing of top-quality components."
-  },
-  "products": {
-    "title": "Precision Components We Manufacture",
-    "categories": [
-      {
-        "name": "Automotive Components",
-        "items": [
-          "Spark Plugs",
-          "Electrical Battery Connectors"
-        ]
-      },
-      {
-        "name": "Pneumatic Parts",
-        "items": [
-          "Brass Valves",
-          "Brass Cylinders"
-        ]
-      }
-    ]
-  },
-  "services": {
-    "list": [
-      "Custom Manufacturing",
-      "Precision Component Production",
-      "Laser Marking",
-      "Deburring",
-      "Automotive Parts Manufacturing",
-      "Pneumatic Component Fabrication"
-    ],
-    "title": "Our Comprehensive Manufacturing Services"
-  },
-  "capabilities": {
-    "facilitySize": "50,000 sq ft",
-    "machineCount": {
-      "cnc": 25,
-      "semiAutomatic": 80
+    "cta": {
+      "primary": "Explore Precision Components",
+      "secondary": "Get a Custom Quote",
+      "primaryAction": "/products",
+      "secondaryAction": "/contact"
     },
-    "manufacturingCapacity": "24/7 Production"
+    "type": "video",
+    "title": "Precision Manufacturing Excellence",
+    "enabled": true,
+    "subtitle": "Delivering High-Performance Brass Components for Critical Industrial Applications",
+    "backgroundVideo": "https://example.com/manufacturing-precision-video.mp4"
+  },
+  "meta": {
+    "title": "Jamnagar Brass Industries - Precision Component Manufacturing",
+    "description": "Leading precision brass component manufacturer with advanced CNC and semi-automatic machinery, serving automotive and industrial sectors since 2012."
+  },
+  "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Transform Your Manufacturing Needs?",
+      "enabled": true,
+      "subtitle": "Experience precision engineering with cutting-edge brass component solutions tailored to your specifications.",
+      "primaryCTA": {
+        "text": "View Our Capabilities",
+        "action": "/services"
+      },
+      "secondaryCTA": {
+        "text": "Contact Our Experts",
+        "action": "/contact"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
+      "items": [
+        {
+          "id": "minimum-order",
+          "answer": "We accommodate orders from small prototype batches to large-scale production runs, with flexible MOQ based on component complexity.",
+          "question": "What are your minimum order quantities?"
+        },
+        {
+          "id": "lead-time",
+          "answer": "Standard lead times range from 2-6 weeks depending on component complexity and order volume, with expedited options available.",
+          "question": "What are your typical production lead times?"
+        },
+        {
+          "id": "quality",
+          "answer": "We maintain rigorous quality control using advanced measurement tools, 100% inspection processes, and adherence to international manufacturing standards.",
+          "question": "How do you ensure component quality?"
+        }
+      ],
+      "title": "Frequently Asked Questions",
+      "enabled": true,
+      "subtitle": "Get instant answers about our precision manufacturing capabilities"
+    },
+    "stats": {
+      "type": "stats",
+      "items": [
+        {
+          "label": "Years Experience",
+          "number": "13+"
+        },
+        {
+          "label": "Manufacturing Machines",
+          "number": "105+"
+        },
+        {
+          "label": "Manufacturing Area",
+          "number": "50,000 sq ft"
+        },
+        {
+          "label": "Daily Production Capacity",
+          "number": "10,000+"
+        }
+      ],
+      "title": "Our Manufacturing Achievements",
+      "enabled": true,
+      "subtitle": "Delivering precision at scale with advanced manufacturing capabilities"
+    },
+    "expertise": {
+      "type": "expertise",
+      "title": "Industries We Serve",
+      "enabled": true,
+      "sectors": [
+        {
+          "id": "automotive",
+          "name": "Automotive",
+          "image": "https://example.com/automotive-manufacturing.jpg",
+          "description": "Specialized brass components for automotive electrical and pneumatic systems with highest precision standards.",
+          "applications": [
+            "Spark Plug Connectors",
+            "Electrical Battery Terminals",
+            "Pneumatic Valve Components",
+            "Sensor Housings"
+          ]
+        },
+        {
+          "id": "industrial",
+          "name": "Industrial Equipment",
+          "image": "https://example.com/industrial-manufacturing.jpg",
+          "description": "High-performance brass components for complex industrial machinery and control systems.",
+          "applications": [
+            "Pneumatic Cylinders",
+            "Precision Valves",
+            "Hydraulic Fittings",
+            "Instrumentation Components"
+          ]
+        }
+      ],
+      "subtitle": "Precision Engineering Across Multiple Critical Sectors",
+      "description": "Our expertise spans multiple industries, delivering high-quality brass components with unmatched precision and reliability."
+    },
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "items": [
+        {
+          "id": "quality",
+          "icon": "shield-check",
+          "title": "Uncompromising Quality Standards",
+          "description": "We implement stringent quality control processes, utilizing advanced measurement technologies to ensure every component meets exact specifications."
+        },
+        {
+          "id": "technology",
+          "icon": "cog",
+          "title": "Advanced Manufacturing Technology",
+          "description": "Our facility features 25 CNC and 80 semi-automatic machines, enabling precise, efficient, and consistent component production."
+        },
+        {
+          "id": "experience",
+          "icon": "calendar",
+          "title": "13 Years of Manufacturing Excellence",
+          "description": "With over a decade of specialized experience, we've developed deep expertise in precision brass component manufacturing."
+        }
+      ],
+      "title": "Why Choose Jamnagar Brass Industries",
+      "enabled": true,
+      "subtitle": "Your Trusted Partner in Precision Manufacturing"
+    }
   }
 }
