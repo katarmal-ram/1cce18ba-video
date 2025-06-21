@@ -4,7 +4,7 @@
     "title": "Precision Brass Components",
     "enabled": true,
     "subtitle": "High-Quality Automotive and Pneumatic Parts Manufactured with Advanced CNC Technology",
-    "backgroundImage": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e"
+    "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
     "title": "Brass Components | Jamnagar Brass Industries | Automotive Parts",
@@ -15,12 +15,12 @@
       {
         "id": "automotive-parts",
         "name": "Automotive Components",
-        "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b",
+        "image": "https://images.unsplash.com/photo-1586170463861-f99c4d1282a9",
         "products": [
           {
             "id": "spark-plugs",
             "name": "Precision Spark Plugs",
-            "image": "https://images.unsplash.com/photo-1586864387789-628af9feed10",
+            "image": "https://images.unsplash.com/photo-1593941707874-9ad9f1169e75",
             "description": "High-performance brass spark plugs designed for optimal engine efficiency and reliability",
             "applications": [
               "Passenger Vehicles",
@@ -38,7 +38,7 @@
           {
             "id": "battery-connectors",
             "name": "Electrical Battery Connectors",
-            "image": "https://images.unsplash.com/photo-1581092795360-1544e1d6c8f7",
+            "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
             "description": "Durable brass battery connectors ensuring reliable electrical connections",
             "applications": [
               "Automotive Electrical Systems",
@@ -48,57 +48,57 @@
             ],
             "specifications": [
               "Corrosion Resistant",
-              "Multiple Size Options",
               "High Conductivity",
+              "Multiple Size Options",
               "Precision Tolerances"
             ]
           }
         ],
-        "description": "Advanced automotive brass components manufactured with precision CNC technology"
+        "description": "Premium automotive brass components manufactured with advanced CNC technology"
       },
       {
         "id": "pneumatic-parts",
         "name": "Pneumatic Components",
-        "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+        "image": "https://images.unsplash.com/photo-1581578017093-65e5a5c51cf3",
         "products": [
           {
-            "id": "pneumatic-valves",
-            "name": "Brass Pneumatic Valves",
-            "image": "https://images.unsplash.com/photo-1581092795360-1544e1d6c8f7",
-            "description": "High-performance brass pneumatic valves for precise air flow control",
+            "id": "brass-valves",
+            "name": "Precision Brass Valves",
+            "image": "https://images.unsplash.com/photo-1581578017093-65e5a5c51cf3",
+            "description": "High-performance brass valves for pneumatic and fluid control systems",
             "applications": [
-              "Industrial Automation",
-              "Manufacturing Equipment",
-              "Robotics",
-              "Pneumatic Systems"
+              "Industrial Machinery",
+              "Pneumatic Systems",
+              "Hydraulic Equipment",
+              "Automation Processes"
             ],
             "specifications": [
               "Brass Material",
-              "High Pressure Rating",
+              "High Pressure Ratings",
               "Precision Machined",
-              "Multiple Port Configurations"
+              "Multiple Flow Configurations"
             ]
           },
           {
             "id": "pneumatic-cylinders",
             "name": "Brass Pneumatic Cylinders",
-            "image": "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b",
-            "description": "Robust brass pneumatic cylinders for reliable mechanical actuation",
+            "image": "https://images.unsplash.com/photo-1593941707874-9ad9f1169e75",
+            "description": "Robust brass pneumatic cylinders for precise motion control",
             "applications": [
+              "Manufacturing Automation",
+              "Robotic Systems",
               "Material Handling",
-              "Packaging Machinery",
-              "Automotive Assembly",
-              "Industrial Robotics"
+              "Packaging Equipment"
             ],
             "specifications": [
-              "Precision Bore Sizes",
+              "Precision Bore Tolerances",
               "High Durability",
-              "Corrosion Resistant",
-              "Standard Mounting Options"
+              "Multiple Stroke Lengths",
+              "Corrosion Resistant"
             ]
           }
         ],
-        "description": "Precision pneumatic brass components for advanced industrial applications"
+        "description": "Advanced brass pneumatic components for industrial applications"
       }
     ],
     "categoriesTitle": "Our Product Categories",
@@ -109,7 +109,7 @@
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Need Custom Brass Components?",
+      "title": "Need Custom Precision Components?",
       "enabled": true,
       "subtitle": "Our experts are ready to develop tailored solutions for your specific requirements",
       "primaryCTA": {
@@ -126,7 +126,7 @@
       "items": [],
       "title": "Explore Our Product Range",
       "enabled": true,
-      "subtitle": "Precision Manufacturing with Advanced CNC Technology"
+      "subtitle": "Precision Manufactured Brass Components for Advanced Industrial Applications"
     }
   }
 }
